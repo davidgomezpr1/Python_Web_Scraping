@@ -30,4 +30,4 @@ I have set a price threshold of €40 so that, with all certainty, I will be abl
 
 ![Email confirming headphone deal](https://user-images.githubusercontent.com/94221230/149658844-fb47d0a4-18c6-4eb1-b4b2-4d5e0af4f9c2.png)
 
-- Within three days, I was able to sell the item on eBay for €55, making a 37.5% profit.
+- Within three days, I was able to sell the item on eBay for €52, making a 30% profit.
