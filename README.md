@@ -12,7 +12,7 @@ In this case, the items I am looking for are on-ear bluetooth headphones that me
 - Price must be under €50.
 - Headphones must be brand-new or Amazon renewed.
     
-I have a set a price threshold of €40 so that, with all certainty, I will be able to make at least a 20% profit on the items.
+I have set a price threshold of €40 so that, with all certainty, I will be able to make at least a 20% profit on the items.
 
 
 ## Overview
