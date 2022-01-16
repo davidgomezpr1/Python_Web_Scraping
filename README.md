@@ -1,3 +1,4 @@
+![Email confirming headphone deal](https://user-images.githubusercontent.com/94221230/149658844-fb47d0a4-18c6-4eb1-b4b2-4d5e0af4f9c2.png)
 # [Project 7 : Scraping Data from the Amazon Website](https://github.com/davidgomezpr1/Python_Web_Scraping)
 ![](https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
 
@@ -27,7 +28,4 @@ I have set a price threshold of €40 so that, with all certainty, I will be abl
 
 - The data was succesfully scraped from the Amazon Website and loaded into the CSV file.
 - The function served its purpose and notified me when the price of the item 'JBL Tune500BT' went below the €40 mark.
-
-![](Python_Web_Scraping/Amazon_Web_Scraping_Project.ipynb/Email confirming headphone deal.png)
-
 - Within three days, I was able to sell the item on eBay for €55, making a 37.5% profit.
