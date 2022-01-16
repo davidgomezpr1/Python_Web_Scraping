@@ -5,7 +5,7 @@
 
 As a Data Analyst and part-time eBay item flipper, I wanted to automate the process of collecting data from Amazon and receiving an email when the items fall below a predetermined price at which I am confident I can make a decent profit.
 
-In this case, the items I am hunting for are on-ear bluetooth headphones with the following specs:
+In this case, the items I am looking for are on-ear bluetooth headphones that meet the following conditions:
 
 - Must have over 20h of battery life.
 - Amazon average customer rating of over 4 stars.
