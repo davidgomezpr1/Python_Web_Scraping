@@ -1,7 +1,7 @@
 # [Project 7 : Scraping Data from the Amazon Website](https://github.com/davidgomezpr1/Python_Web_Scraping)
 ![](https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
 
-## Business Request
+## Motivation
 
 As a Data Analyst and part-time eBay item flipper, I wanted to automate the process of collecting data from Amazon and receiving an email when the items fall below a predetermined price at which I am confident I can make a decent profit.
 
